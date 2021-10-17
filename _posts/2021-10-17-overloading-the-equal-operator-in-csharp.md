@@ -1,8 +1,13 @@
 ---
-title: Overloading the == operator in C#
+title: Overloading the `==` operator in C#
+header:
+  teaser: /assets/images/overloading-the-equal-operator.png
+categories:
+  - Blog
+tags:
+  - csharp
+  - equal operator
 ---
-
-
 
 I just wanted to take 2 minutes of your time to show you a funny little quirk that resides in C# >= 7.0 that you might not know about, or at least I didn't.
 
