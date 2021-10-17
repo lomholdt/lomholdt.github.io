@@ -1,6 +1,7 @@
 ---
 title: Overloading the `==` operator in C#
 header:
+  image: /assets/images/overloading-the-equal-operator.png
   teaser: /assets/images/overloading-the-equal-operator.png
 categories:
   - Blog
