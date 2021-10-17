@@ -1,7 +1,7 @@
 ---
 title: Overloading the `==` operator in C#
 header:
-  image: /assets/images/overloading-the-equal-operator.png
+#   image: /assets/images/overloading-the-equal-operator.png
   teaser: /assets/images/overloading-the-equal-operator.png
 categories:
   - Blog
@@ -9,6 +9,8 @@ tags:
   - csharp
   - equal operator
 ---
+
+![Overloading the equal operator in csharp](/assets/images/overloading-the-equal-operator.png)
 
 I just wanted to take 2 minutes of your time to show you a funny little quirk that resides in C# >= 7.0 that you might not know about, or at least I didn't.
 
