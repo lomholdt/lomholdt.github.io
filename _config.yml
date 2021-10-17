@@ -35,6 +35,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lomholdt"
 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jonaslomholdt"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lomholdt"
 
 defaults:
   # _posts
