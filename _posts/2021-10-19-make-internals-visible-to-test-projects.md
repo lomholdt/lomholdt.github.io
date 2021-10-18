@@ -24,8 +24,8 @@ In the `.csproj` for the project that contains the internal class add the follow
 
 ```xml
 <ItemGroup>
-  <InternalsVisibleTo Include="../../test/Project.Name.UnitTest" />
+  <InternalsVisibleTo Include="Project.Name.UnitTest" />
 </ItemGroup>
 ```
 
-> Remember to specify the correct path to your test project where the internals should be made visible
+> Remember to specify the correct test project where the internals should be made visible
