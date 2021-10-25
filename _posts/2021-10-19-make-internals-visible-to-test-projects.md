@@ -1,5 +1,9 @@
 ---
 title: Make Internals Visible to Test Projects
+categories:
+  - Blog
+tags:
+  - csharp
 ---
 
 # How to make internals visible to test projects
