@@ -8,7 +8,7 @@ tags:
 
 # How to make internals visible to test projects
 
-> Since .NET 5 this functionality is built in! That means you only need to add the `<InternalsVisibleTo> attribute in your csproj to make this work if you are running .NET 5 or higher.`
+> Since .NET 5 this functionality is built in! That means you only need to add the `<InternalsVisibleTo>` attribute in your csproj to make this work if you are running .NET 5 or higher.
 
 Put the following MSBuild task into your `Directory.Build.props` in your src folder.
 
