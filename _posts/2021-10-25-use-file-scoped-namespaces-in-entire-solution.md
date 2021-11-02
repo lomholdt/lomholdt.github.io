@@ -1,9 +1,11 @@
 ---
-title: How to convert to file scoped namespaces in entire solution
+title: Convert to file scoped namespaces in the entire solution using .editorconfig
 categories:
   - Blog
 tags:
   - csharp
+  - editorconfig
+  - file scoped namespaces
 ---
 
 File scoped namespaces is a new feature in C# 10, allowing a simpler format for defining namespaces.
